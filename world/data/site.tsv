@@ -1,0 +1,11 @@
+#key	value
+name	AmadeusWeb | World
+byline	An Internet of Missions
+safeName	amadeuswebworld
+iconName	World
+footer-message	[For Information from and Activity supporting various "Movements In Unison."](%world-url%missions/)
+siteMenuName	World
+sections	communities
+local-url	http://localhost/amore/world/
+live-url	https://amadeusweb.world/
+year	2025
